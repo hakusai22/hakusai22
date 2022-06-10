@@ -14,7 +14,7 @@ Welcome to my Github page! I am hakusai22 !
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hakusai22&theme=flat&column=10&margin-w=10)](https://github.com/hakusai22)
 
-<a href="[https://github.com/rfyiamcool/go-netflow](https://github.com/hakusai22/Algorithm-study)">
+<a href="https://github.com/hakusai22/Algorithm-study">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hakusai22&repo=go-netflow&theme=buefy" />
 </a>
 
