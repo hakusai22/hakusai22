@@ -11,7 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakusai22&layout=compact&exclude_repo=hakusai22.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hakusai22&theme=flat&column=10&margin-w=10)](https://github.com/hakusai22)
 
 
 
