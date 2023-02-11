@@ -1,4 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg"/>
 
 - 本科 2022年毕业 软件工程, 杭州海康威视Java后端实习, 现在杭州C端产品服务器开发, Java/Python/C++/Goland。
