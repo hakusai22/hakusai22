@@ -6,8 +6,9 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=hakusai22&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
   <p align="center">
-    ![hakusai22](https://komarev.com/ghpvc/?username=hakusai22) <img src="https://visitor-badge.laobi.icu/badge?page_id=hakusai22.hakusai22" alt="visitor badge"/> 
-    ![Github](https://img.shields.io/github/followers/hakusai22?label=Follow&style=social)](https://github.com/hakusai22)
+    <img src="https://komarev.com/ghpvc/?username=hakusai22" alt="visitor badge"/> 
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=hakusai22.hakusai22" alt="visitor badge"/> 
+    <img src="https://img.shields.io/github/followers/hakusai22?label=Follow&style=social" alt="visitor badge"/> 
   </p>
   <h3 align="center">Languages and Tools:</h3>
   <p align="center">
