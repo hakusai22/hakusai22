@@ -26,12 +26,10 @@
 <tr>
 <td valign="top"  width="58%">
   
-  ![](https://github-readme-stats.vercel.app/api?username=hakusai22)
+  ![]([https://github-readme-stats.vercel.app/api?username=hakusai22](https://github-readme-stats.vercel.app/api?username=hakusai22&show_icons=true&hide_border=true&theme=tokyonight))
   
   <br>
-#### 🐍 [Contributions](https://github-readme-stats.vercel.app/api?username=hakusai22&show_icons=true&hide_border=true&theme=tokyonight)
-
-![](https://fastly.jsdelivr.net/gh/hakusai22/Algorithm-study/github-contribution-grid-snake.svg)
+#### 🐍 [Contributions](https://fastly.jsdelivr.net/gh/hakusai22/Algorithm-study/github-contribution-grid-snake.svg)
 
 </td>
 <td valign="top"  width="42%">
