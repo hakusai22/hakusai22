@@ -23,7 +23,25 @@
 </p>
 
 
+#### 🐍 [Contributions](https://github-readme-stats.vercel.app/api?username=hakusai22&show_icons=true&hide_border=true&theme=tokyonight)
 
+![](https://fastly.jsdelivr.net/gh/hakusai22/Algorithm-study/github-contribution-grid-snake.svg)
+
+</td>
+<td valign="top"  width="42%">
+  
+  ![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakusai22&layout=compact&hide_border=true&langs_count=10)
+
+#### ✏️ [Recent Blog](https://www.hakusai.cn/)
+
+- [https://www.hakusai.cn/](https://www.hakusai.cn/)
+- [https://www.hakusai.cn/](https://www.hakusai.cn/)
+- [https://www.hakusai.cn/](https://www.hakusai.cn/)
+- [https://www.hakusai.cn/](https://www.hakusai.cn/)
+- [https://www.hakusai.cn/](https://www.hakusai.cn/)
+</td>
+</tr>
+</table>
 
 
 
