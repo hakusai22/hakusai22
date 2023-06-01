@@ -6,11 +6,6 @@
   <p align="center"> 
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=hakusai22&show_icons=true&hide_border=true&theme=tokyonight" />
   </p>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hakusai22" alt="ghpvc badge"/> 
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=hakusai22.hakusai22" alt="visitor badge"/> 
-    <img src="https://img.shields.io/github/followers/hakusai22?label=Follow&style=social" alt="Follow badge"/>
-  </p>
   <h3 align="center">Languages and Tools:</h3>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>  
