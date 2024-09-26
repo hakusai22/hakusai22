@@ -11,7 +11,9 @@
     - 全栈方向是否考虑 React/Vue/Flutter+Golang 直接看成熟项目 (未来趋势)
 
 <img width="298" height="321" src="https://github.com/user-attachments/assets/f5ffa4dc-b741-412f-a2b4-8d60f86f6d9a">
-<img width="2163" alt="iShot_2024-08-16_20 31 05" src="https://github.com/user-attachments/assets/5db46f55-3d0c-47c2-8d93-b0e1b24adbf2">
+
+> Kuromi 雀魂麻将联动
+<img width="1460" alt="image" src="https://github.com/user-attachments/assets/7280f3ac-9449-4f0a-b02d-cdf25c029d30">
 
 
 <p align="center"> 
