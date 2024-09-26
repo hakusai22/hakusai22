@@ -4,18 +4,11 @@
 - 掘金地址: [https://juejin.cn/user/4248168663101239](https://juejin.cn/user/4248168663101239) 
 - 哔哩哔哩地址:  [https://space.bilibili.com/455295915](https://space.bilibili.com/455295915) 偶尔直播 雀魂麻将） 雀魂麻将ID: 53004960 
 - Wechat: hakusai22 （打麻将/职业规划/个人经历 下面问题有兴趣可以来聊）
-- 最近在沉淀的方向:
-
-  - 《CSAPP 深入理解操作系统3.0》和《计算机网络自顶向下》
-
-  - Q3季度 遇到技术上的难点
-
-    - 服务器内存溢出问题排查&&优化: 堆内->堆外->Glibc 异常排查, 默认内存管理器glibc/jemalloc/tcmalloc/gdb/虚拟内存等等。
-    - 最近又遇到Nginx层到Http层传输大Json慢的场景: http1.1+的keepalive机制/Gzip压缩/Charles抓Http包/WireShark抓TCP/UDP包 七层模型/传输窗口等等。
-    - ...........
-
-  - AIGC 方向知识点 文本模型+结构化提示词+微软TTS+...... (业务所需)
-  - 全栈方向是否考虑 React/Vue/Flutter+Golang 直接看成熟项目 (未来趋势)
+- 最近在沉淀的方向: 
+    - 《CSAPP 深入理解操作系统3.0》和《计算机网络自顶向下》
+    - AIGC 方向知识点 文本模型+结构化提示词+...... (业务所需)
+    - 算法工程(机器学习&&深度学习&&推荐系统)
+    - 全栈方向是否考虑 React/Vue/Flutter+Golang 直接看成熟项目 (未来趋势) 
 
 <img width="2163" alt="iShot_2024-08-16_20 31 05" src="https://github.com/user-attachments/assets/5db46f55-3d0c-47c2-8d93-b0e1b24adbf2">
 
