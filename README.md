@@ -3,6 +3,7 @@
 
 - 掘金地址: [https://juejin.cn/user/4248168663101239](https://juejin.cn/user/4248168663101239) 
 - 哔哩哔哩地址:  [https://space.bilibili.com/455295915](https://space.bilibili.com/455295915)
+- 计算机知识点总结和思考 [计算机知识思考和总结](https://lslj4qcpwg.feishu.cn/base/UslwbKFf6atn5rsY3b4cuBhan8g?from=from_copylink)
 - （打麻将/职业规划/个人经历 下面问题有兴趣 飞书可以来聊）
 - 最近在沉淀的方向: 
     - 《CSAPP 深入理解操作系统3.0》和《计算机网络自顶向下》
