@@ -11,7 +11,8 @@
     - 算法工程(机器学习&&深度学习&&推荐系统)
     - 全栈方向是否考虑 React/Vue/Flutter+Golang 直接看成熟项目 (未来趋势)
 
-<img width="298" height="321" src="https://github.com/user-attachments/assets/f5ffa4dc-b741-412f-a2b4-8d60f86f6d9a">
+<img width="284" height="336" src="https://github.com/user-attachments/assets/042681be-f7bd-427b-8730-88d6e0d8cb9c">
+
 
 > Kuromi 雀魂麻将联动
 <img width="1460" alt="image" src="https://github.com/user-attachments/assets/7280f3ac-9449-4f0a-b02d-cdf25c029d30">
