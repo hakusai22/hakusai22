@@ -3,8 +3,9 @@
 
 - juejin: [https://juejin.cn/user/4248168663101239](https://juejin.cn/user/4248168663101239)
 - yuque: [https://www.yuque.com/hakusai](https://www.yuque.com/hakusai)
-- Feishu QR code
-<img width="284" height="336" src="https://github.com/user-attachments/assets/042681be-f7bd-427b-8730-88d6e0d8cb9c">
+
+> Feishu QR code
+<img width="245" height="245" alt="image" src="https://github.com/user-attachments/assets/ed4f33da-e010-4436-9662-13ab241fe193">
 
 
 > Kuromi MahjongSoul
