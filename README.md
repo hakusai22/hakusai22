@@ -4,7 +4,7 @@
 - juejin: [https://juejin.cn/user/4248168663101239](https://juejin.cn/user/4248168663101239)
 - yuque: [https://www.yuque.com/hakusai](https://www.yuque.com/hakusai)
 
-> Feishu QR code
+> Scan the Feishu QR code to communicate
 <img width="245" height="245" alt="image" src="https://github.com/user-attachments/assets/ed4f33da-e010-4436-9662-13ab241fe193">
 
 
