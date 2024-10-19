@@ -1,7 +1,8 @@
 
 ## Personal Introduction
 
-- juejin: [https://juejin.cn/user/4248168663101239](https://juejin.cn/user/4248168663101239) 
+- juejin: [https://juejin.cn/user/4248168663101239](https://juejin.cn/user/4248168663101239)
+- yuque: [https://www.yuque.com/hakusai](https://www.yuque.com/hakusai)
 
 <img width="284" height="336" src="https://github.com/user-attachments/assets/042681be-f7bd-427b-8730-88d6e0d8cb9c">
 
