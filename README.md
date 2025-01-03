@@ -1,6 +1,7 @@
+- [2024年总结: 迷茫 ](https://juejin.cn/post/7445511025702764555)
+- [2023年总结：日渐清醒，得失随意](https://juejin.cn/post/7315308701052354614)
+  
 > MahjongSoul ID: 53004960
-
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/54d9307b-bb68-4527-a454-ebb29e4623b9" />
 
 <p align="center"> 
   Visitor count<br>
