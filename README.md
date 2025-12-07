@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+### Profile Views
+<img src="https://count.getloli.com/get/@:hakusai22?theme=gelbooru-h" alt=":name" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hakusai22" width="auto"></img>
+
 <!--
 **hakusai22/hakusai22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
