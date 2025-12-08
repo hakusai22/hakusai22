@@ -3,6 +3,7 @@
 
 ### Profile Views
 <img src="https://count.getloli.com/get/@:hakusai22?theme=gelbooru-h" alt=":name" />
+<img src="https://github-readme-stats-seven-sage-72.vercel.app/api?username=hakusai22&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff&card_width=400&line_height=27" />
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakusai22" width="auto"></img> -->
 
 <!--
