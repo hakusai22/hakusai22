@@ -38,10 +38,10 @@
 <h2 height="200px" align="center">🎉 About Me  WeChat: kobeni0103 </h2>
 <br />
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://github-readme-stats-seven-sage-72.vercel.app/api?username=hakusai22&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff&card_width=400&line_height=27" />
 
-</p>
+</p> -->
 
 <!--
 **hakusai22/hakusai22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
