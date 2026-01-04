@@ -35,7 +35,7 @@
 
 
 <!-- 关于我 -->
-<h2 height="200px" align="center">🎉 About Me  WeChat: kobeni0103 </h2>
+<!-- <h2 height="200px" align="center">🎉 About Me  WeChat: kobeni0103 </h2> -->
 <br />
 
 <!-- <p align="center">
